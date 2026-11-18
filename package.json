@@ -1,14 +1,14 @@
 {
   "name": "api-tyoescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "API web feita com typescript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": ""
+    "start": "npx nodemon src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gus",
   "license": "ISC",
   "type": "module",
   "dependencies": {
